@@ -255,9 +255,7 @@
          CALL XIT
       END IF
 
-      RETURN
-
-      END
+      END SUBROUTINE UMAT
 
 !                                                                      C
 !     SUBROUTINE UHARD                                                 C
